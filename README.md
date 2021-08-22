@@ -107,8 +107,8 @@ In this section, we will evaluate performance metrics of models produced using d
 
 ## Summary
 
-For this credit risk analysis, we can infer that it is of utmost importance to accurately predict high/low risk loans to lower default rates. This indicates that a model with a higher precision will be ideal to correctly identify high risk loans.
+For this credit risk analysis, we can infer that it is of utmost importance to accurately predict high-risk loans to lower default rates. This indicates that a model with a higher precision will be ideal to correctly identify high-risk loans.
 
-For all sampling algorithms conducted in this exercise, even though the accuracy score is above 80% and it perfectly predicts low-risk loans, precision of high-risk loans is very poor. This highlights that sampling can attempt to address imbalance but it does not always produce better results.
+For all sampling algorithms conducted in this challenge, even though the accuracy score is above 80% and it perfectly predicts low-risk loans, precision of high-risk loans is very poor. This highlights that sampling can attempt to address imbalance but it does not always produce better results.
 
 From ensemble library, we see slightly better precision (0.1) than other models for high-risk loans when using "Easy Ensemble AdaBoost Classifier" with accuracy score above 93%, but the overall precision of the metrics to predict high risk loans remains very low and not enough to recommend this model. Further analysis is needed using other algorithms and review of the deficiencies of the original dataset to make an appropriate model recommendation.
