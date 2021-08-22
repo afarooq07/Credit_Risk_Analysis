@@ -33,7 +33,7 @@ In this section, we will evaluate performance metrics of models produced using d
     - Low Risk = 0.84
 
 <br /> 
-<img src="Resources/random_oversampling.png" width=500 align=center>
+<img src="resources/random_oversampling.png" width=500 align=center>
 <br /> <br /> <br />
 
 **SMOTE Oversampling**
@@ -46,7 +46,7 @@ In this section, we will evaluate performance metrics of models produced using d
     - Low Risk = 0.76
 
 <br /> 
-<img src="Resources/smote.png" width=500 align=center>
+<img src="resources/smote.png" width=500 align=center>
 <br /> <br /> <br />
 
 
@@ -60,7 +60,7 @@ In this section, we will evaluate performance metrics of models produced using d
     - Low Risk = 0.76
 
 <br />
-<img src="Resources/undersampling.png" width=500 align=center>
+<img src="resources/undersampling.png" width=500 align=center>
 <br /> <br /> <br />
 
 
@@ -74,7 +74,7 @@ In this section, we will evaluate performance metrics of models produced using d
     - Low Risk = 0.86
 
 <br /> 
-<img src="Resources/smoteen.png" width=500 align=center>
+<img src="resources/smoteen.png" width=500 align=center>
 <br /> <br /> <br />
 
 
@@ -88,7 +88,7 @@ In this section, we will evaluate performance metrics of models produced using d
     - Low Risk = 0.88
 
 <br /> 
-<img src="Resources/random_forest.png" width=500 align=center>
+<img src="resources/random_forest.png" width=500 align=center>
 <br /> <br /> <br />
 
 
@@ -102,7 +102,7 @@ In this section, we will evaluate performance metrics of models produced using d
     - Low Risk = 0.95
 
 <br /> 
-<img src="Resources/easy_ensemble.png" width=500 align=center>
+<img src="resources/easy_ensemble.png" width=500 align=center>
 <br /> <br /> <br />
 
 ## Summary
